@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    grid: auto-flow 5em / repeat(6, 1fr)
+}
+
+#item1 {
+    grid-column-start: span 2;
+}

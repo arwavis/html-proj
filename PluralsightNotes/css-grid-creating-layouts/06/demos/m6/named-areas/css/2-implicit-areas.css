@@ -1,0 +1,18 @@
+html, body { height: 100%; }
+
+body {
+    display: grid;
+    grid-template-rows: [header-start] min-content [header-end nav-start main-start aside-start] auto [nav-end main-end aside-end footer-start] min-content [footer-end];
+    grid-template-columns: [header-start footer-start nav-start] 15em [nav-end main-start] 1fr [main-end aside-start] 1fr [header-end footer-end aside-end];
+}
+
+header { grid-area: header; }
+
+nav { grid-area: nav; }
+
+main { grid-area: main; }
+
+aside { grid-area: aside; }
+
+footer { grid-area: footer; }
+

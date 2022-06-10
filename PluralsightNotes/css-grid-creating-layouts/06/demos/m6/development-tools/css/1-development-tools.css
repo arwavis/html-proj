@@ -1,0 +1,10 @@
+body {
+    margin: 3em;
+    display: grid;
+    grid: auto-flow 10em / repeat(auto-fit, 10em);
+}
+
+#mini-grid {
+    display: grid;
+    grid: repeat(2, 5em) / repeat(5, 2em);
+}

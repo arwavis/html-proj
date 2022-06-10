@@ -1,0 +1,149 @@
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+<script src="https://use.fontawesome.com/ec190a7a0e.js"></script>
+
+
+
+
+
+<figure>
+	<a href="player.html">
+	<img src="images/a_girl200.jpg" srcset="images/a_girl200.jpg 1x, images/a_girl400.jpg 2x">
+	</a><figcaption>Young Hearts</figcaption>
+</figure> 
+   
+<figure>
+<a href="player.html">
+	<img src="images/a_paint200.jpg" srcset="images/a_paint200.jpg 1x, images/a_paint400.jpg 2x">
+	</a><figcaption>In the Corner</figcaption>
+</figure> 
+   
+   
+<figure>
+<a href="player.html">
+	<img src="images/a_pink200.jpg" srcset="images/a_pink200.jpg 1x, images/a_pink400.jpg 2x">
+	</a><figcaption>Pretty in Pink</figcaption>
+</figure> 
+   
+   
+<figure>
+<a href="player.html">
+	<img src="images/a_sad200.jpg" srcset="images/a_sad200.jpg 1x, images/a_sad400.jpg 2x">
+	</a><figcaption>Reflections</figcaption>
+</figure> 
+   
+<figure>
+<a href="player.html">
+	<img src="images/a_rain200.jpg" srcset="images/a_rain200.jpg 1x, images/a_rain400.jpg 2x">
+	</a><figcaption>Looking Up</figcaption>
+</figure> 
+  
+<figure>
+<a href="player.html">
+	<img src="images/a_search200.jpg" srcset="images/a_search200.jpg 1x, images/a_search400.jpg 2x">
+	</a><figcaption>Looking for You</figcaption>
+</figure> 
+   
+<figure>
+<a href="player.html">
+	<img src="images/a_wheel200.jpg" srcset="images/a_wheel200.jpg 1x, images/a_wheel400.jpg 2x">
+	</a><figcaption>Riding Away</figcaption>
+</figure> 
+
+
+
+
+
+
+
+
+
+
+<section>
+		<div><a href="player.html"><img src="images/r_clara160.jpg" ></a></div>
+		<div>Brenda Bache</div>
+	</section>
+   
+   <section>
+		<div><a href="player.html"><img src="images/r_jen160.jpg"></a></div>
+		<div>Clara Stoneman</div>
+	</section>
+   
+   <section>
+		<div><a href="player.html"><img src="images/r_jordan160.jpg"></a></div>
+		<div>Dory Jensen</div>
+	</section>
+   
+   <section>
+		<div><a href="player.html"><img src="images/r_rey160.jpg"></a></div>
+		<div>Erica Marlay</div>
+	</section>
+   
+   <section>
+		<div><a href="player.html"><img src="images/r_sally160.jpg"></a></div>
+		<div>Fanny Dylan</div>
+	</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div class="photo">
+		<img src="images/howl650.jpg" alt="cover"
+			 sizes="(min-width: 29em) 50vw, 100vw"
+			 srcset="images/howl650.jpg 650w, images/howl750.jpg 750w, images/howl850.jpg 850w, images/howl950.jpg 950w" >
+	</div>
+  
+	<div class="startTime">1:25</div>
+	<div class="time"><input type="range" name="volume" min="0" max="100" value="30"></div>
+    <div class="endTime">-2:14</div>
+   
+	<div class="title">
+		<span>Howling at the Moon</span>
+		<span>Wolf Pack Seven</span>
+	</div>
+   
+	<div class="previous"><span class="fa fa-angle-double-left"></span></div>
+	<div class="play"><span class="fa fa-play"></span></div>
+	<div class="next"><span class="fa fa-angle-double-right"></span></div>
+	
+   
+   
+	<div class="voldn"><span class="fa fa-volume-down"></span></div>
+	<div class="volume"><span><input type="range" name="volume" min="0" max="100"></span></div>
+	<div class="volup"><span class="fa fa-volume-up"></span></div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	div.photo {grid-area: photo;}
+    
+	div.time {grid-area: time;}
+	div.startTime {grid-area: startTime; }
+	div.endTime {grid-area: endTime; }
+	
+	div.title {grid-area: title;}
+	
+	div.previous {grid-area: prev; }
+	div.play {grid-area: play; }
+	div.next {grid-area: next;}
+	
+	div.voldn {grid-area: dn; }
+	div.volume {grid-area: vol;}
+	div.volup {grid-area: up;}
+	
+	
+	
+	
+	

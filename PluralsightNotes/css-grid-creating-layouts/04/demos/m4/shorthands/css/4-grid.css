@@ -1,0 +1,4 @@
+body {
+    display: grid;
+    grid: repeat(2, 10em) / repeat(6, 1fr);
+}

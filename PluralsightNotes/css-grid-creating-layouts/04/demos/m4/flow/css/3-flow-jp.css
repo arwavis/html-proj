@@ -1,0 +1,10 @@
+body {
+    display: grid;
+    writing-mode: vertical-rl;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, 10em);
+}
+
+body > div {
+    writing-mode: horizontal-tb;
+}

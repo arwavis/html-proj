@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    grid: repeat(3, max-content) / 20em auto 15em;
+}
+
+header, footer {
+    grid-column: 1 / 4;
+}

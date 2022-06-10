@@ -1,0 +1,142 @@
+/* Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS.  */
+html {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+
+/*  apply a natural box layout model to all elements  */
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+/* ------------- BODY ------------- */
+body {
+	font-family: $defaultFont;
+	font-size: 16px;
+	font-weight: $normalWeight;
+}
+
+div#wrapper {
+
+    
+    
+    
+    
+    
+	
+	background-color: $primaryColor;
+}
+
+
+
+
+/*  ------------- HAMBURGER -------------  */
+.hamburger {
+
+    
+	padding-left: $gutter;
+	font-size: 2rem;
+	a {color: white; text-decoration: none;}
+}
+
+/*  ------------- SOCIAL -------------  */
+div.social {
+	
+    
+    
+    
+	padding-right: $gutter;
+	a {
+		font-size: 1.8rem;
+		padding-left: .5rem;
+		color: white;
+	}
+	a:hover{color:$secondaryColor;}
+	
+}
+
+/*  ------------- HEADER -------------  */
+header {
+
+	
+	color: $secondaryColor;
+	padding:  1rem $gutter;
+	h1 {
+		font-size: 2rem;
+		font-weight: $normalWeight;
+	} //end h1 rules
+    
+	h2 {
+		font-size: 1.12rem;
+        font-weight: $normalWeight;
+	} //end h2 rules
+} // end header
+
+
+
+
+
+
+/*  ------------- NAV -------------  */
+nav {
+	
+	background-color: $secondaryColor;
+	height: 100vh;
+	ul li a {
+		display: block;
+		text-align: center;
+		margin: .5rem $gutter;
+		padding: .5rem;
+		background-color: rgba(255,255,255,0.2);
+		border-radius: 1rem;
+		color: $primaryColor;
+		text-decoration: none;
+	}
+	ul li a:hover {color:white;}
+} // end nav
+
+
+
+
+
+
+/*  ------------- MAIN -------------  */
+main {
+	
+	min-height: 300px;
+	background-color: white;
+	p {margin: 1rem $gutter;}
+	h1 {
+		font-size: 2rem;
+		margin: 1.5rem $gutter .5rem $gutter;
+		color: $primaryColor;
+	} // end h1
+} // end main
+
+
+
+
+
+
+
+/*  ------------- FOOTER -------------  */
+footer {
+	
+	
+	
+	p {
+		text-align: center;
+		color: $secondaryColor;
+		padding: .75rem 0;
+		font-size: .9rem;
+	} // end p
+    
+	p a {color: $secondaryColor;}
+} // end footer
+
+
+
+
+
+
+/*----- Clearfix: Force an Element not to collapse -----*/
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

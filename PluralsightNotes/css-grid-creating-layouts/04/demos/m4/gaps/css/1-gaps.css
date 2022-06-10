@@ -1,0 +1,17 @@
+body {
+    display: grid;
+    grid: auto-flow min-content / repeat(3, 1fr);
+    grid-gap: 1em;
+    margin: 1em;
+}
+
+header,
+footer {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+main {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}

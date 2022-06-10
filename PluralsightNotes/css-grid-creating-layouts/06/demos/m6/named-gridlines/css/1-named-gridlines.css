@@ -1,0 +1,20 @@
+body {
+    display: grid;
+    grid-template-rows: [header-start] 2em 5em [header-end body-start] 10em 10em [body-end];
+    grid-template-columns: [left-edge] 1fr 1fr [midpoint] 1fr 1fr [right-edge];
+}
+
+header {
+    grid-row: header-start / header-end;
+    grid-column: left-edge / right-edge;
+}
+
+#item1 {
+    grid-row: body-start / body-end;
+    grid-column: left-edge / midpoint;
+}
+
+#item2 {
+    grid-row: body-start / body-end;
+    grid-column: midpoint / right-edge;
+}

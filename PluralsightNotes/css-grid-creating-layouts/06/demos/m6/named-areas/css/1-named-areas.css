@@ -1,0 +1,19 @@
+html, body { height: 100%; }
+
+body {
+    display: grid;
+    grid: "header header header" min-content
+          "nav    main   aside " auto
+          "footer footer footer" min-content /
+          15em 1fr 1fr;
+}
+
+header { grid-area: header; }
+
+nav { grid-area: nav; }
+
+main { grid-area: main; }
+
+aside { grid-area: aside; }
+
+footer { grid-area: footer; }

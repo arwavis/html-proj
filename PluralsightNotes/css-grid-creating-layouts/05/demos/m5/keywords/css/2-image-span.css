@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    grid: auto-flow min-content / repeat(6, 1fr)
+}
+
+img {
+    grid-column-end: span 2;
+}

@@ -1,0 +1,52 @@
+<div class="parent">
+    <article><h2>News Story One</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur vut! Suspendisse potenti. Aenean ac pulvinar diam, nec vestibulum purus. Proin aliquet eu nibh at laoreet. Duis et dolor neque. Suspendisse ut vehicula est. Nulla sed placerat neque, sit amet dapibus augue. Ut laoreet dui consectetur tellus gravida varius. Sed malesuada eros sit amet ex suscipit tempus non id arcu. Fusce ultricies quam erat, at suscipit sapien euismod non. Proin at turpis felis. Morbi euismod efficitur sem, vel ornare mauris consequat venenatis. Phasellus placerat condimentum dignissim.</article>
+    <article><h2>News Story Two</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur! Scelerisque ac sagittis sed magna, aenean, est ac augue adipiscing.</article>
+    <article><h2>News Story Three</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur vut! </article>
+    <article><h2>News Story Four</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur vut! </article>
+    <article><h2>News Story Five</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur! Scelerisque ac sagittis sed magna, aenean, est ac augue adipiscing.</article>
+    <article><h2>News Story Six</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur vut! </article>
+    <article><h2>News Story Seven</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus, nascetur vut! Tincidunt lectus magna! Elementum.</article>
+    <article><h2>News Story Eight</h2>Nec mid tincidunt hac augue, eu dignissim elementum, nec massa dictumst pulvinar porta ridiculus! </article>
+</div> <!-- end news items -->
+
+
+
+
+
+
+
+
+<div class="teaser">
+	<img src="images/hotel.jpg" alt="" >
+	<span>"Virtual Hotel Service Announced"</span>	
+</div>
+   
+<div class="teaser">
+	<img src="images/divorce.jpg" alt="" >
+	<span>"Declining Divorce Rates Suprise Researchers"</span>	
+</div>
+   
+<div class="teaser">
+	<img src="images/room2.jpg" alt="" >
+	<span>"Hotel Gets Facelift"</span>	
+</div>
+   
+<div class="teaser">
+	<img src="images/story1.jpg" alt="" >
+	<span>"Roaring 20's Hotel Reopens"</span>	
+</div>
+   
+<div class="teaser">
+	<img src="images/story2.jpg" alt="" >
+	<span>"Auto Recall Stuns Owners"</span>	
+</div>
+		
+<div class="teaser">
+	<img src="images/story3.jpg" alt="" >
+	<span>"Politician Behind Bars"</span>	
+</div>
+		
+<div class="teaser">
+	<img src="images/story4.jpg" alt="" >
+	<span>"New WIFI in Airports"</span>	
+</div>

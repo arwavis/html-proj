@@ -1,0 +1,36 @@
+<div class="container1">
+		<div><h2>Bomb Fails</h2><p>Enim phasellus vut mus augue, et, lorem, sagittis et nec, porta facilisis natoque, augue massa porttitor, velit vel aliquam, tincidunt amet, rhoncus odio, pid in urna mus sed duis et in scelerisque et quis penatibus placerat ultrices est mattis in? Arcu elementum urna porttitor sed urna nisi lundium, mus integer enim, in ut. Cum quis! Mauris egestas nisi augue hac etiam et lundium quis sed, dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst? mus integer enim, in ut. Cum quis! Mauris egestas nisi augue hac etiam et lundium quis sed, dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst?</p>
+		</div> <!-- end column -->
+		<div><h2>Boy Saves Squirrel</h2><p>Enim phasellus vut mus augue, et, lorem, sagittis et nec, porta facilisis natoque, augue massa porttitor, velit vel aliquam, tincidunt amet, rhoncus odio, pid in urna mus sed duis et in scelerisque et quis penatibus placerat ultrices est mattis in? Arcu elementum urna porttitor sed urna nisi lundium, mus integer enim, in ut. Cum quis! Mauris egestas nisi augue hac etiam et lundium quis sed, dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst?</p>
+		</div> <!-- end column -->
+		<div><h2>Lost Cave Discovered</h2><p>Enim phasellus vut mus augue, et, lorem, sagittis et nec, porta facilisis natoque, augue massa porttitor, velit vel aliquam, tincidunt amet, rhoncus odio, pid in urna mus sed duis et in scelerisque et quis penatibus placerat ultrices est mattis in? Arcu elementum urna porttitor sed urna nisi lundium, mus integer enim, in ut. Cum quis! Mauris egestas nisi augue hac etiam et lundium quis ?</p>
+		</div> <!-- end column -->
+		<div><h2>No one Wins the Lotto</h2><p>Enim phasellus vut mus augue, et, lorem, sagittis et nec, porta facilisis natoque, augue massa porttitor, velit vel aliquam, tincidunt amet, rhoncus odio, pid in urna mus sed duis et in scelerisque et quis penatibus placerat ultrices est mattis in? Arcu elementum urna porttitor sed urna nisi lundium, mus integer enim, in ut. Cum quis! Mauris egestas nisi augue hac etiam et lundium quis sed, dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst? dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst?</p>
+		</div> <!-- end column -->
+		<div><h2>Mom Saves Baby from Bear</h2><p>Enim phasellus vut mus augue, et, lorem, sagittis et nec, porta facilisis natoque, augue massa porttitor, velit vel aliquam, tincidunt amet, rhoncus odio, pid in urna mus sed duis et in scelerisque et quis penatibus placerat ultrices est mattis in? Arcu elementum urna porttitor sed urna nisi lundium, mus integer enim, in ut. Cum quis! Mauris egestas nisi augue hac etiam et lundium quis sed, dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst? dapibus! Cum magna elementum, nec! In, nunc non. Ac mid a proin, aenean aliquet vel dictumst?</p>
+		</div> <!-- end column -->
+	</div> <!-- end ROW -->
+
+
+
+
+
+
+<div class="container2">
+	<figure><img src="images/a.jpg" alt=""></figure>
+	<figure><img src="images/b.jpg" alt=""></figure>
+	<figure><img src="images/c.jpg" alt=""></figure>
+	<figure><img src="images/d.jpg" alt=""></figure>
+	<figure><img src="images/e.jpg" alt=""></figure>
+	<figure><img src="images/f.jpg" alt=""></figure>
+	<figure><img src="images/g.jpg" alt=""></figure>
+	<figure><img src="images/h.jpg" alt=""></figure>
+	<figure><img src="images/i.jpg" alt=""></figure>
+	<figure><img src="images/j.jpg" alt=""></figure>
+	<figure><img src="images/k.jpg" alt=""></figure>
+	<figure><img src="images/l.jpg" alt=""></figure>
+	<figure><img src="images/m.jpg" alt=""></figure>
+	<figure><img src="images/n.jpg" alt=""></figure>
+	<figure><img src="images/o.jpg" alt=""></figure>
+	<figure><img src="images/p.jpg" alt=""></figure>
+</div><!-- end container 2-->

@@ -1,0 +1,12 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid: min-content auto min-content / 15em 1fr 1fr;
+    grid-template-areas: "header header header"
+    "nav    main   aside"
+    "footer footer footer";
+}

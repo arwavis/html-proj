@@ -1,0 +1,4 @@
+body {
+    display: grid;
+    grid: 10em 10em / auto-flow 10em;
+}

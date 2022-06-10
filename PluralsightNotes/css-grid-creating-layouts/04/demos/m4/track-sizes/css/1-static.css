@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 200px 10em 30ch;
+}

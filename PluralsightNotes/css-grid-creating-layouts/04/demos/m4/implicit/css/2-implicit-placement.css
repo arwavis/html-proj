@@ -1,0 +1,8 @@
+body {
+    display: grid;
+    grid: repeat(2, 10em) / repeat(2, 10em);
+}
+
+#weird-item {
+    grid-column-start: 11;
+}

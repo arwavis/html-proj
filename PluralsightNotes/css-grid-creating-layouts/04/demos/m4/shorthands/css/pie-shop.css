@@ -1,0 +1,139 @@
+* {
+    color: white;
+    font-family: Helvetica, "Helvetica-Neue", Arial, sans-serif;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-template-rows: min-content auto min-content;
+    grid-gap: 0.5em;
+    max-width: 80em;
+    margin: auto;
+    background-color: #e6e4d9;
+    background-image: url(../img/pattern.png)
+}
+
+header, footer {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+main {
+    display: grid;
+    grid-template-rows: 10em max-content max-content max-content;
+    grid-gap: 0.5em;
+}
+
+/* Finishing steps */
+
+nav[aria-label="sub"] {
+    background: none;
+    padding: 1em;
+}
+
+nav[aria-label="sub"] img {
+    max-width: 100%;
+}
+
+nav[aria-label="sub"] h2 {
+    color: black;
+    font-size: 1.25em;
+}
+
+nav[aria-label="sub"] ul {
+    list-style: none;
+    text-align: left;
+    padding-left: 0;
+}
+
+nav[aria-label="sub"] li > a {
+    font-weight: normal;
+    line-height: 1.25em;
+    color: blue;
+}
+
+nav[aria-label="sub"] label {
+    color: black;
+}
+
+nav[aria-label="sub"] input {
+    padding: 0.5em;
+    border-radius: 0.25em;
+    color: black;
+}
+
+header {
+    background-color: #a593c2;
+}
+
+nav[aria-label="main"] ul {
+    list-style: none;
+}
+
+nav[aria-label="main"] li {
+    display: inline;
+    padding: 1em;
+}
+
+nav[aria-label="main"] li > a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background: #a593c2;
+}
+
+article {
+    display: grid;
+    grid-template-columns: 4em auto 3em;
+    grid-template-rows: max-content max-content;
+    grid-gap: 0.5em;
+    background-color: white;
+    padding: 1em;
+}
+
+article h3 {
+    color: black;
+    margin: 0;
+}
+
+aside {
+    background-color: transparent;
+}
+
+article img {
+    border-radius: 1em;
+    grid-row-start: 1;
+    grid-row-end: -1;
+    object-fit: cover;
+    max-width: 100%;
+    height: 4em;
+}
+
+article p, span {
+    color: black;
+    font-weight: normal;
+}
+
+section {
+    background: none;
+    padding: 1em;
+}
+
+section h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+section h1, section p {
+    color: black;
+}

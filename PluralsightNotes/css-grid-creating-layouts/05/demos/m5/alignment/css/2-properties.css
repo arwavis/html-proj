@@ -1,0 +1,16 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid: auto-flow 5em / 5em 5em 5em 5em;
+    justify-content: center;
+    align-content: center;
+}
+
+#special-one {
+    justify-self: end;
+    align-self: end;
+}

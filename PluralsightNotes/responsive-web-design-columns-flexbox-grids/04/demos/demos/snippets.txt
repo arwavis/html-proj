@@ -1,0 +1,6 @@
+<ul class="social">
+	<li><a href="#"><i class=""></i></a></li>
+	<li><a href="#"><i class=""></i></a></li>
+	<li><a href="#"><i class=""></i></a></li>
+	<li><a href="#"><i class=""></i></a></li>
+</ul>

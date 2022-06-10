@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr fit-content(30em) fit-content(30em) 1fr;
+}
